@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Logo.png" width="200" title="Aluminum Logo">
+</p>
+
+<h1 align="center">Aluminum Core</h1>
+
 # Aluminum
 A Lightweight Core for the Next Generation:
 

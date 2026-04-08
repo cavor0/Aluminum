@@ -4,12 +4,12 @@
 #include <stdlib.h>
 
 /* * ALUMINUM PROGRAMMING LANGUAGE 
- * Core v1.0 - Universal Edition (Linux, macOS, Windows)
+ * Core v0.1 - Universal Edition (Linux, macOS, Windows)
  * Developed by: Scott (Muhammed Ali Akbaş)
  */
 
 #define MAX_ATOMS 256
-#define VERSION "1.0.0"
+#define VERSION "0.1"
 
 typedef enum {
     AL_SUCCESS = 0,

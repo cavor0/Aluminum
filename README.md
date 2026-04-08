@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo.png" width="200" title="Aluminum Logo">
+  <img src="LOGO.png" width="200" title="Aluminum Logo">
 </p>
 
 <h1 align="center">Aluminum Core</h1>
